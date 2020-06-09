@@ -12,7 +12,7 @@
    template:
      metadata:
        labels:
-         app: adressbookapp
+         app: addressbookapp
      spec:
        containers:
          - name: addressbookapp
